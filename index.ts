@@ -1,5 +1,6 @@
 // crear las clases Edificio, Piso y Departamento aquí
 // Mi desafío
+console.log("hellooo");
 class Departamento {
     constructor(name:string) {
         this.name = name;
